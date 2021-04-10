@@ -25,4 +25,16 @@ Menambah CSS Selector dengan menggunakan ID dan Class Selector pada dokumen css 
 
 # Pertanyaan dan tugas
 ## 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
+saya melakan pergantian warna
+![gambar 6](https://user-images.githubusercontent.com/56240221/114255914-b3036400-99e0-11eb-9913-391fbcc2d1a9.jpg)
 
+## 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
+Perbedaannya CSS elemen h1 mengubah tampilan seluruh elemen yang memiliki tag h1, sedangkan #intro h1 hanya mengubah tampilan elemen h1 yang memiliki id #intro.
+
+## 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
+Setelah saya coba dari ketiga deklarasi CSSnya sama semua, maka browser hanya akan menampilkan salah satunya, dengan urutan Inline CSS, Eksternal CSS, dan yang terakhir Internal CSS.
+![gambar 7](https://user-images.githubusercontent.com/56240221/114256494-c95eef00-99e3-11eb-9802-3fa449e78c42.jpg)
+
+## 3. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
+Setelah saya coba Kedua deklarasi tersebut akan tampil, namun selector ID yang akan tampil jika deklarasinya ada yang sama antara ID dan Class.
+![gambar 8](https://user-images.githubusercontent.com/56240221/114256602-805b6a80-99e4-11eb-903f-d91b5c303622.jpg)
