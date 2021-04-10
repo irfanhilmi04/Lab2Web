@@ -1,0 +1,54 @@
+nav{
+    background: #070a91;
+    color: #067d68;
+    border: 1px solid #031bf3;
+    padding: 10px;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+nav  .active,
+nav a:hover{
+    background: #0b6b3a;
+}
+
+/* ID Selector */
+#intro{
+    background: #ffd700;
+    border: 1px solid #070a91;
+    min-height: 100px;
+    padding: 10px;
+}
+#intro h1{
+    text-align: left;
+    border: 0;
+    color: #000000;
+}
+#intro p{
+    border: 5px solid #ff0000;
+    color: #0000ff;
+}
+#paragraf-1{
+    font-size: 40px;
+    color: red;
+    background: green;
+}
+
+/* Class Selector */
+.button{
+    padding: 15px 20px;
+    background: #0000ff;
+    color: #5ffae0;
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+}
+.btn-primary{
+    background: #0000ff;
+}
+.text-paragraf{
+    color: black;
+    text-align: center;
+}
